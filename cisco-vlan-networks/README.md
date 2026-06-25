@@ -2,7 +2,7 @@
 
 This repository showcases a complete, production-ready enterprise network architecture designed and simulated in **Cisco Packet Tracer**. The project implements advanced network segmentation, inter-VLAN routing, and edge security filtering through a dedicated hardware firewall, enforcing strict isolation and access policies.
 
-## 📐 Network Architecture Overview
+## Network Architecture Overview
 
 The topology is designed around a core **Router-on-a-Stick** topology connected to segmented Layer 2 environments and an edge security boundary.
 
@@ -12,7 +12,7 @@ The topology is designed around a core **Router-on-a-Stick** topology connected 
 
 ---
 
-## 🔒 VLAN Segmentation & IP Addressing Scheme
+## VLAN Segmentation & IP Addressing Scheme
 
 To optimize broadcast domains, maximize performance, and strictly isolate untrusted traffic (such as guests or IoT devices), the network infrastructure is divided into 5 distinct VLANs:
 
@@ -42,7 +42,7 @@ To prevent routing loops and asymmetric routing drops (black-holing), explicit s
 
 ---
 
-## 🚀 How to Run and Test the Lab
+## How to Run and Test the Lab
 
 Since `.pkt` files are proprietary binaries that cannot be natively rendered on GitHub, follow these instructions to inspect the running environment:
 
