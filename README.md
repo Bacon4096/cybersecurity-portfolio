@@ -10,7 +10,7 @@ Welcome to my personal portfolio. This repository serves as a centralized hub fo
 *   **`/hackthebox-challenges`**: Security analysis and penetration methodologies applied to solve Hack The Box machines and challenges.
 *   **`/codewars-scripting`**: Solutions, custom Bash scripts, and automation tools solving algorithmic and system administration challenges (Codewars/Kata).
 
-## 🛠️ Core Skills & Tools Highlighted
+## Core Skills & Tools Highlighted
 *   **Cloud & Systems:** Microsoft Azure infrastructure, Linux Administration (Debian/RHEL), Bash Scripting, user privileges, and log management.
 *   **Networking:** TCP/IP model, Cisco IOS configuration, VLAN segmentation (IEEE 802.1Q), Access Control Lists (ACLs).
 *   **Methodologies:** Vulnerability assessment, risk mitigation, cloud security posture, and advanced technical report writing.
