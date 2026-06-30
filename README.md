@@ -13,7 +13,6 @@ The contents are organized into specific technical domains to allow for quick, i
 *   `/tryhackme-labs`: Detailed write-ups, log analysis workflows, and proactive SOC monitoring techniques.
 *   `/hackthebox-challenges`: Security analysis, local privilege escalation, and penetration testing methodologies applied to vulnerable systems.
 *   `/codewars-scripting`: Solutions, custom Bash/Python scripts, and automation tools solving algorithmic and system administration challenges.
-*   `/cisco-vlan-networks`: Design, segmentation, and securing of corporate network infrastructures (VLANs, ACLs, Inter-VLAN Routing) implemented via Cisco Packet Tracer.
 *   `/azure-cloud-labs`: Configuration, resource management, and security implementations within Microsoft Azure cloud environments, aligned with enterprise best practices.
 * `/infrastructure-simulations`: Enterprise network architecture and security simulations. This directory focuses on complex network designs (multi-VLAN segments, DMZ hardening, and Inter-VLAN routing) implemented via Cisco Packet Tracer to model enterprise-grade infrastructure.
 * `/personal-projects`: Custom software engineering and automation solutions. This domain hosts my personal codebase, including C++ game engine experiments, infrastructure-as-code scripts, and modular automation tools built to solve specific system administration and software design challenges.
