@@ -42,7 +42,4 @@ These are the platforms and portals that shape my technical foundation and resea
 *   **[Azure Portal](https://portal.azure.com/)** – Cloud infrastructure management and enterprise security resources.
 
 ---
-
 *Disclaimer: All sensitive data (PII, credentials) has been redacted. Content managed for educational purposes.*
-
----
