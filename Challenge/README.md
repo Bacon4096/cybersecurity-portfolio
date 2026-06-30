@@ -1,44 +1,48 @@
-# Security Challenges & Labs
+# 🛡️ Security Challenges & Labs | Bacon4096
 
-Questa repository contiene le mie note tecniche, i workflow di risoluzione e le configurazioni relative alle challenge di Cybersecurity affrontate su piattaforme come **TryHackMe**, **Hack The Box (HTB)** e **KANA**.
+This repository is the technical hub for my security research, lab configurations, and challenge solutions. It acts as the "source of truth" for the code and configurations utilized in my projects.
 
-## Struttura della Repo
-Ogni cartella è dedicata a una specifica sfida ed è organizzata come segue:
-* `README.md` (o file di report): Analisi della vulnerabilità e metodologia risolutiva.
-* `/configs`: Eventuali file di configurazione, payload o script utilizzati.
-* `/recon`: Output grezzi della fase di enumerazione (nmap, gobuster, etc.).
+### 🔗 Interactive Portfolio & Analytical Reports (Notion)
+For comprehensive security analysis, detailed methodologies, and status tracking, visit my **[Live Notion Portfolio](https://app.notion.com/p/Infrastructure-Security-Engineering-Portfolio-38fd39ac1438808e87d3e3c0fd696e0c?source=copy_link)**.
 
 ---
 
-## Piattaforme Monitorate
-| Piattaforma | Focus Principale | Stato |
+### 📂 Repository Structure
+All projects are organized by platform to ensure intuitive navigation. Within each project folder, you will find:
+*   `/recon`: Raw enumeration data and initial findings.
+*   `/configs`: Exploit scripts, configuration files, and payloads.
+*   `README.md`: A brief technical summary and resolution methodology.
+
+### 🎯 Research Domains & Status
+| Platform | Primary Focus | Status |
 | :--- | :--- | :--- |
-| **TryHackMe** | Path learning, Junior Penetration Tester | In Progress |
-| **Hack The Box** | Box rooting, CTF style | Active |
-| **KANA** | Networking & Troubleshooting | Active |
+| **TryHackMe** | Learning Paths, SOC Monitoring, Log Analysis | In Progress |
+| **Hack The Box** | Box Rooting, CTF Methodologies | In Progress |
+| **Codewars** | Scripting, Algorithms, System Admin | In Progress |
+| **Azure Labs** | Cloud Security, Identity Management | In Progress |
+| **Personal Projects** | Custom Tools, Automation, Architecture | In Progress |
 
 ---
 
-## Privacy & Security Note
-*Tutti i dati sensibili, inclusi nomi, cognomi e credenziali personali presenti in screenshot o report, sono stati oscurati/redatti per motivi di privacy. La validità dei certificati e dei risultati è verificabile tramite gli ID di riferimento indicati nei rispettivi report.*
+### 💡 Methodology
+I maintain a clear separation between platforms and functional code:
+1.  **Technical Execution**: The actual files (scripts, configs, recon data) reside here on GitHub.
+2.  **Contextual Analysis**: Every script/config includes brief, inline comments explaining the procedure. For the full "how-to" and detailed security report (CWE/CVE analysis, remediation), follow the links to the corresponding entry in my **[Notion Portfolio]**.
 
 ---
 
-## Metodologia (Template di Report)
-Per ogni sfida seguo un approccio strutturato:
-1. **Recon & Enumeration:** Mappatura dei servizi e della superficie d'attacco.
-2. **Analysis:** Identificazione della vulnerabilità (CWE/CVE).
-3. **Exploitation:** Esecuzione del payload e ottenimento dell'accesso.
-4. **Post-Exploitation/Hardening:** Analisi della soluzione o suggerimenti di remediation.
+*Disclaimer: All sensitive data (PII, credentials) has been redacted. Content managed for educational purposes.*
 
 ---
 
-## Risorse Utili
-- [Cisco Networking Academy](https://www.netacad.com/)
-- [ISC2 Certification Portal](https://www.isc2.org/)
-- [TryHackMe Dashboard](https://tryhackme.com/)
-- [Hack The Box Labs](https://app.hackthebox.com/)
+### 🌐 Useful Resources & Dashboards
+These are the platforms and portals that shape my technical foundation and research:
+
+*   **[Live Notion Portfolio](https://app.notion.com/p/Infrastructure-Security-Engineering-Portfolio-38fd39ac1438808e87d3e3c0fd696e0c?source=copy_link)** – My Master Knowledge Base and Analytical Reports.
+*   **[Cisco Networking Academy](https://www.netacad.com/)** – Advanced network simulation and infrastructure fundamentals.
+*   **[ISC2 Certification Portal](https://www.isc2.org/)** – Professional cybersecurity standards and certification tracking.
+*   **[TryHackMe Dashboard](https://tryhackme.com/)** – Practical cybersecurity training and SOC/Blue Team labs.
+*   **[Hack The Box Labs](https://app.hackthebox.com/)** – Penetration testing methodologies and infrastructure exploitation.
+*   **[Azure Portal](https://portal.azure.com/)** – Cloud infrastructure management and enterprise security resources.
 
 ---
-
-*Documentazione gestita per scopi didattici e di portfolio.*
