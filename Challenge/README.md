@@ -31,10 +31,6 @@ I maintain a clear separation between platforms and functional code:
 
 ---
 
-*Disclaimer: All sensitive data (PII, credentials) has been redacted. Content managed for educational purposes.*
-
----
-
 ### 🌐 Useful Resources & Dashboards
 These are the platforms and portals that shape my technical foundation and research:
 
@@ -44,5 +40,9 @@ These are the platforms and portals that shape my technical foundation and resea
 *   **[TryHackMe Dashboard](https://tryhackme.com/)** – Practical cybersecurity training and SOC/Blue Team labs.
 *   **[Hack The Box Labs](https://app.hackthebox.com/)** – Penetration testing methodologies and infrastructure exploitation.
 *   **[Azure Portal](https://portal.azure.com/)** – Cloud infrastructure management and enterprise security resources.
+
+---
+
+*Disclaimer: All sensitive data (PII, credentials) has been redacted. Content managed for educational purposes.*
 
 ---
