@@ -3,7 +3,7 @@
 Welcome to my technical repository. This space serves as a centralized hub for my source code, network configurations, and custom automation scripts developed during my hands-on technical training and engineering research.
 
 ### 🔗 Access the Full Interactive Portfolio (Notion)
-For a deep dive into my applied methodologies, comprehensive analytical reports, and real-time learning progress, please visit my **[Live Notion Portfolio - Link Here]**.
+For a deep dive into my applied methodologies, comprehensive analytical reports, and real-time learning progress, please visit my **[Live Notion Portfolio](https://app.notion.com/p/Infrastructure-Security-Engineering-Portfolio-38fd39ac1438808e87d3e3c0fd696e0c?source=copy_link)**.
 
 ---
 
